@@ -1,4 +1,3 @@
 # cv
 
-A simple CV of mine written in some plain HTML lines.
-Up until now it has visually early internet vibes.
+A simple CV of mine written in some basic HTML/CSS lines.
